@@ -4,7 +4,7 @@ class Board {
      var options = {
     //   isStatic: false
     //   isStatic: true
-    //   Static: true
+         Static: true
     //   isStatic= true
      };
 
